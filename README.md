@@ -59,7 +59,7 @@ dataset_name/
 
 ## Usage
 
-We provide sample scripts for training and generation in `./scripts/`.
+We provide sample scripts for training and generation in `./scripts/`. Note that these scripts run on cpu. If you want to test on gpu, modify the `gpu_ids` option in the scripts.
 
 ### Training
 
