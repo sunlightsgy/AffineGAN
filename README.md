@@ -2,6 +2,16 @@
 
 This is the official pytorch implemention for the paper "Facial Image-to-Video Translation by a Hidden Affine Transformation" in ACM Multimedia 19.
 
+|                    Happy                     |                    Anger                     |                   Surprise                   |                   Contempt                   |
+| :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
+| ![vid_0026_latest](GIFS/vid_0026_latest.gif) | ![vid_0001_latest](GIFS/vid_0001_latest.gif) | ![vid_0010_latest](GIFS/vid_0010_latest.gif) | ![vid_0003_latest](GIFS/vid_0003_latest.gif) |
+
+|                    Eye Up                    |                  Close Eye                   |                 Drum Cheeks                  |
+| :------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
+| ![vid_0002_latest](GIFS/vid_0002_latest.gif) | ![vid_0009_latest](GIFS/vid_0009_latest.gif) | ![vid_0011_latest](GIFS/vid_0011_latest.gif) |
+
+
+
 ## Installation
 
 - Python 3.6
