@@ -1,6 +1,6 @@
 # AffineGAN
 
-This is the official pytorch implementions for the paper "Facial Image-to-Video Translation by a Hidden Aine Transformation" in ACM Multimedia 19.
+This is the official pytorch implementions for the paper "Facial Image-to-Video Translation by a Hidden Affine Transformation" in ACM Multimedia 19.
 
 ## Installation
 
