@@ -18,10 +18,10 @@ class AffineGANDataset(BaseDataset):
         if not os.path.exists(path):
             if convertRGB:
                 return np.zeros(
-                    (self.opt.fineSize, self.opt.fineSize, 3), dtype=np.uint8
+                    (self.opt.fineSize, self.opt.fineSize, 3), dtype=np.float32
                 )
             else:
-                return np.zeros((self.opt.fineSize, self.opt.fineSize), dtype=np.uint8)
+                return np.zeros((self.opt.fineSize, self.opt.fineSize), dtype=np.float32)
 
         image = Image.open(path)
         if convertRGB:
