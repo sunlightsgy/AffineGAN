@@ -115,6 +115,7 @@ If you use this code for your research, please cite our papers.
   title={Facial Image-to-Video Translation by a Hidden Affine Transformation},
   author={Shen, Guangyao and Huang, Wenbing and Gan, Chuang and Tan, Mingkui and Huang, Junzhou and Zhu, Wenwu and Gong, Boqing},
   booktitle={Proceedings of the 27th ACM international conference on Multimedia},
+  pages={2505--2513},
   year={2019},
   organization={ACM}
 }
